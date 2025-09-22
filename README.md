@@ -21,6 +21,11 @@ Whether you're teaching a programming class or experimenting with robotics, this
 - **Gyroscope and Accelerometer**: Enables orientation and motion tracking.
 - **Analog Temperature Sensor**: Measures ambient temperature.
 - **Analog Light Sensor**: Detects surrounding light intensity.
+- **Knock Sensor**: Detects vibrations and impacts, useful for collision detection and interactive programming projects.
+- **Wheel Tachometers**: For reading wheel rotation speed and enabling precise movement control and odometry calculations.
+- **Tactile Sensor**: For use as a touch button, connected to a digital port.
+- **IR Receiver**: For receiving signals from an IR remote control.
+- **Bluetooth**: Enables connecting to and controlling the robot from a smartphone or PC via Bluetooth.
 
 
 ### Interface and Outputs
@@ -31,9 +36,6 @@ Whether you're teaching a programming class or experimenting with robotics, this
 - **4 WS2812 LEDs**: Located at the edges of the robot, functioning as customizable indicators or turn signals.
 - **3 Servo Motor Outputs**: Provides flexibility for additional mechanical functionality.
 - **Arduino Uno-Compatible Headers**: Allows integration of shields and expansion of functionality.
-- **1 Touch sensor**: For use as touch button, connected to digital port.
-- **2 Wheel tachometers**: For reading wheel rotation speed and enabling precise movement control and odometry calculations. 
-- **Knock sensor**: Detects vibrations and impacts, useful for collision detection and interactive programming projects. 
 
 ### Mobility
 The robot features two side-mounted wheels, enabling tank-style differential steering for precise movement control.
